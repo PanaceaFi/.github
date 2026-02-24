@@ -48,7 +48,7 @@ We collaborate with:
 
 If you are an approved partner and need access to collaborate with our engineering team, please submit a request below.
 
-👉 **Request Access:** [Partner Access Request Form](https://YOUR-LINK-HERE)
+👉 **Request Access:** [Partner Access Request Form](https://github.com/PanaceaFi/panacea-financial-access)
 
 ---
 
